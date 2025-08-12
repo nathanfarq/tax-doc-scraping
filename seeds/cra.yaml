@@ -1,0 +1,4 @@
+start_urls:
+  - https://www.canada.ca/en/revenue-agency.html
+allow_domains:
+  - canada.ca
