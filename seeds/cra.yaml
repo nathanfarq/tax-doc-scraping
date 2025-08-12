@@ -1,0 +1,11 @@
+start_urls:
+  - https://www.canada.ca/en/revenue-agency.html
+allow_domains:
+  - canada.ca
+deny_paths:
+  - /search
+  - /media
+max_depth: 2
+rate_limit:
+  download_delay: 0.5
+  concurrent_requests: 2
