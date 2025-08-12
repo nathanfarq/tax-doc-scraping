@@ -7,4 +7,4 @@ lint:
 	pre-commit run --files $(shell git ls-files '*.py')
 
 test:
-	pytest
+        PYTHONPATH=src pytest
