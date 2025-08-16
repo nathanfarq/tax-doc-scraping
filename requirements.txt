@@ -1,0 +1,17 @@
+scrapy
+trafilatura
+lxml
+markdownify
+sentence-transformers
+qdrant-client
+fastapi
+uvicorn
+click
+pyyaml
+pydantic
+
+# dev
+pre-commit
+ruff
+black
+pytest
